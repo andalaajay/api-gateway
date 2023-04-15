@@ -2,7 +2,7 @@ server:
   port:9003
 spring:
   application:
-    name: api-gateway
+    name: api
   cloud:
     gateway:
       discovery:
